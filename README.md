@@ -36,4 +36,4 @@ My background is deeply rooted in vulnerability research, cryptography, and open
 `Go` | `Python` | `Docker` | `RabbitMQ` | `Supabase` | `C/C++` | `Vulnerability Assessment` | `OWASP Top 10` | `Cryptography`
 
 ---
-📫 **Let's Connect:** [LinkedIn Profile](https://www.linkedin.com/in/hasan-%C3%A7-772a991a3) | *Open for B2B collaborations and SaaS integrations.*
+📫 **Let's Connect:** [LinkedIn Profile](https://www.linkedin.com/in/hasanclskn/) | *Open for B2B collaborations and SaaS integrations.*
