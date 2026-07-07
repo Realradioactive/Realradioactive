@@ -1,5 +1,4 @@
-## Hi there 👋
-# 🛡️ Hasan Ç. 
+# 🛡️ Hasan Ç. - Realradioactive
 ### Founder & Security Developer @ [ClearVulc]
 
 I build automated systems to hunt vulnerabilities before they are exploited. 
