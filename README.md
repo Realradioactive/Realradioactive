@@ -1,5 +1,5 @@
 # 🛡️ Hasan Ç. - Realradioactive
-### Founder & Security Developer @ [ClearVulc]
+### Founder & Security Developer @ [Clearvuln]
 
 I build automated systems to hunt vulnerabilities before they are exploited. 
 
@@ -8,7 +8,7 @@ Bridging the gap between offensive security research and automated defense, my c
 ---
 
 ### 🚀 Currently Building
-**ClearVulc** — A zero-configuration, automated vulnerability scanning SaaS.
+**Clearvuln** — A zero-configuration, automated vulnerability scanning SaaS.
 * **Architecture:** Scalable asynchronous backend utilizing **Go, Python, RabbitMQ**, and **Supabase**.
 * **Engine:** Powered by customized Nuclei templates and Nmap scanning engines.
 * **Mission:** Providing agencies with automated, white-labeled security reports to secure their clients' infrastructure without requiring an in-house security team.
